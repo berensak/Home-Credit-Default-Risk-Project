@@ -48,4 +48,3 @@ installments_payments.csv
   - One row is equivalent to one payment of one installment OR one installment corresponding to one payment of one previous Home Credit credit related to loans in our sample.
  
  
-
